@@ -1,4 +1,4 @@
-# Avalara Vector Semantic Discovery
+# Avalara Vector Teaching Tool
 
 An interactive educational visualization that demonstrates how vector embeddings and cosine similarity work in semantic search. Perfect for understanding the mathematics behind modern AI search, RAG systems, and content relevance.
 
@@ -13,7 +13,7 @@ This tool lets you **explore semantic space** by dragging a vector around and wa
 
 ## 🚀 Try It Live
 
-**[Launch Interactive Demo →](https://yourusername.github.io/vector-semantic-discovery/)**
+**[Launch Interactive Demo →](https://brianava.github.io/vector-teaching-tool/)**
 
 ## 📚 How to Use
 

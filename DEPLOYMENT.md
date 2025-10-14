@@ -13,7 +13,7 @@ This guide will walk you through deploying the Vector Semantic Discovery visuali
 
 1. **Create a new repository on GitHub**
    - Go to https://github.com/new
-   - Name it: `vector-semantic-discovery` (or your preferred name)
+   - Name it: `vector-teaching-tool` (or your preferred name)
    - Description: "Interactive visualization for understanding semantic search and vector embeddings"
    - Make it **Public** (required for free GitHub Pages)
    - Don't initialize with README (we have our own)
@@ -34,7 +34,7 @@ This guide will walk you through deploying the Vector Semantic Discovery visuali
    git commit -m "Initial commit: Vector Semantic Discovery visualization"
    
    # Connect to your GitHub repo (replace YOUR_USERNAME)
-   git remote add origin https://github.com/YOUR_USERNAME/vector-semantic-discovery.git
+   git remote add origin https://github.com/YOUR_USERNAME/vector-teaching-tool.git
    
    # Push to GitHub
    git branch -M main
@@ -52,10 +52,10 @@ This guide will walk you through deploying the Vector Semantic Discovery visuali
 
 4. **Wait a few minutes**
    - GitHub will build and deploy your site
-   - Your site will be live at: `https://YOUR_USERNAME.github.io/vector-semantic-discovery/`
+   - Your site will be live at: `https://brianava.github.io/vector-teaching-tool/`
 
-5. **Update the meta tags**
-   - Edit `index.html` and replace `yourusername.github.io/vector-semantic-discovery/` with your actual URL
+5. **All set!**
+   - The URLs are already configured correctly in the files
    - Commit and push the change:
      ```bash
      git add index.html
