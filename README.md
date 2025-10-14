@@ -1,6 +1,8 @@
-# Avalara Vector Teaching Tool
+# Vector Teaching Tool
 
 An interactive educational visualization that demonstrates how vector embeddings and cosine similarity work in semantic search. Perfect for understanding the mathematics behind modern AI search, RAG systems, and content relevance.
+
+> **Note:** This is an independent educational project created by Brian Crouch. It is not affiliated with or endorsed by Avalara, Inc.
 
 ## 🎯 What This Does
 
@@ -48,11 +50,9 @@ This visualization is ideal for:
 
 ## 📖 About
 
-Created by [Brian Crouch](https://linkedin.com/in/brianstevencrouch), Senior Technical SEO Manager at Avalara, to help bridge the gap between AI/ML concepts and practical SEO applications.
+Created by [Brian Crouch](https://linkedin.com/in/brianstevencrouch), Senior Technical SEO Manager at [Avalara](https://www.avalara.com), as an independent educational project to help bridge the gap between AI/ML concepts and practical SEO applications.
 
-## 🏢 Avalara
-
-Avalara helps businesses of all sizes get tax compliance right. Learn more at [avalara.com](https://www.avalara.com).
+**Disclaimer:** This project is not affiliated with, sponsored by, or endorsed by Avalara, Inc. The example embeddings use tax/compliance terminology for educational purposes only.
 
 ## 📄 License
 
